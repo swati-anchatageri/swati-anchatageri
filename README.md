@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://swati-anchatageri.github.io/](https://swati-anchatageri.github.io/)
 
 - 📫 How to reach me **swatianchatageri129@gmail.com**
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_dx9oHNWDdGdryg6ngne0TJudvnLdwiM/view?usp=drive_link](https://drive.google.com/file/d/1_dx9oHNWDdGdryg6ngne0TJudvnLdwiM/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swati-anchatageri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati anchatageri" height="30" width="40" /></a>
